@@ -1,0 +1,114 @@
+body{
+    background-color: rgb(218, 75, 75);
+}
+h1{
+    text-align: center;
+    color: white;
+}
+span{
+    color: yellow;
+}
+
+header{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+main div{
+    background-color: black;
+    width: 300px;
+    height: 250px;
+    text-align: center;
+    color: white;
+}
+
+img{
+    width: 300px;
+    height: 110px;
+}
+main{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    gap: 120px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
